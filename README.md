@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg" />
 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=100&center=true&vCenter=true&multiline=true&width=1000&height=300&lines=Computer+Science;%26+Engineering)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=100&center=true&vCenter=true&multiline=true&width=1000&height=300&lines=Computer+Science;%26+Engineering)](https://github.com/A1ueo)
 
 <br>
 <br>
