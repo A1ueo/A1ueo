@@ -104,6 +104,7 @@ Here are some ideas to get you started:
   <br>
   <br>
   
+  <h1>📊 Status 📊</h1>
   
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssj123)](https://solved.ac/profile/ssj123)
   [![mazandi profile](http://mazandi.herokuapp.com/api?handle=ssj123&theme=cold)](https://solved.ac/profile/ssj123)
