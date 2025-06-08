@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <br>
 
 <div align=center>
-  <h1>🖥 Tech Stack 🖥</h1>
+  <h1>💻 Tech Stack 💻</h1>
   <div>
     <div>
       <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
