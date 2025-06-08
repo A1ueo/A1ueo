@@ -65,7 +65,7 @@ Here are some ideas to get you started:
   <h1>🛠 etc. 🛠</h1>
   <div>
     <div>
-      <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+      <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
       <!--
       <img src="https://img.shields.io/badge/VSCodium-2F80ED?style=for-the-badge&logo=vscodium&logoColor=white" />
       -->
