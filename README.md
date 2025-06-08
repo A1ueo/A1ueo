@@ -70,6 +70,7 @@ Here are some ideas to get you started:
         -->
         <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
         <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spyder_IDE-8C0000?style=for-the-badge&logo=spyderide&logoColor=white" />
         <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
       </div>
       <div>
